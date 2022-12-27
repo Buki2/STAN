@@ -5,7 +5,9 @@ This is the resource and code for the TMM paper, [Scene-Text Oriented Referring 
 
 We introduce a new task called **scene-text oriented referring expression comprehension (ST-REC)**. To tackle this task, we propose a **scene text awareness network (STAN)** that can bridge the gap between texts from two modalities. Additionally, to conduct quantitative evaluations, we establish a new benchmark dataset called **RefText**, which contains 31K manually generated referring expressions for 11K objects from multiple image sources. Examples are shown as follows:
 
-![reftext_scene](./reftext_scene.jpg)
+<p align="center">
+  <img src="./reftext_scene.jpg" width="100%"/>
+</p>
 
 ## Data Preparation
 
